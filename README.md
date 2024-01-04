@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Rabelo
 
-- 🔭 Atualmente performo como bolsista voluntário em um projeto de extensão que visa criar um aplicativo destinado Polícia Técnico-Científica do Estado do Rio de Janeiro
-- 🌱 Estudando React Native
+- 📚 Estudando React Native
+- 🧐 Interesse em Desenvolvimento Mobile e Front-End
 
 <picture>
   <source
